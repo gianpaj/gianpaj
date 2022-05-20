@@ -2,7 +2,7 @@
 
 # SUPPORT UKRAINE, the UKRAINIAN ARMY and EUROPE 🇺🇦 🇪🇺 https://savelife.in.ua/en/donate/
 
-- 🔭 I’m currently working in [@CarTrawler](https://github.com/cartrawler) as a Product Manager (Travel Mobility B2B2B Marketplace)
+- 🔭 I’m currently working in [CarTrawler](https://cartrawler.com) as a Product Manager (Travel Mobility B2B2B Marketplace)
 - Socials:
   - Twitter [@gianpaj](https://twitter.com/gianpaj)
   - [LinkedIn](https://linkedin.com/in/gianpaj)
