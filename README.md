@@ -2,7 +2,7 @@
 
 [![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge)
 
-- 🔭 I’m currently working in [CarTrawler](https://cartrawler.com) as a Product Manager (Travel Mobility B2B2B Marketplace)
+- 🔭 I’m currently working in [CarTrawler](https://cartrawler.com) as a Technical Product Manager (Travel Mobility B2B2B Marketplace)
 - Socials:
   - Twitter [@gianpaj](https://twitter.com/gianpaj)
   - [LinkedIn](https://linkedin.com/in/gianpaj)
