@@ -14,7 +14,8 @@
 - [Fallcha.io](https://app.fallcha.io/) - Supercharge your new hires time to productivity `#react` `#tailwindcss` `#nodejs` `#postgresql`
 - [Wallnut.tv](https://walnut.tv/) - Always interesting videos (from Reddit and YouTube channels) `#vuejs`
 
-### Learning Rust
+<!-- ### Learning Rust
   
 - by doing these exercises [rustlings](https://github.com/rust-lang/rustlings)
 - and reading [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) book
+-->
