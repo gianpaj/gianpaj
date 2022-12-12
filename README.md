@@ -12,8 +12,11 @@
 
 ## Interests and side projects
 
-- [Fallcha.io](https://app.fallcha.io/) - Supercharge your new hires time to productivity `#react` `#tailwindcss` `#nodejs` `#postgresql`
 - [Wallnut.tv](https://walnut.tv/) - Always interesting videos (from Reddit and YouTube channels) `#vuejs`
+
+## Previous projects
+
+- [Fallcha.io](https://app.fallcha.io/) - Supercharge your new hires time to productivity `#react` `#tailwindcss` `#nodejs` `#postgresql`
 
 <!-- ### Learning Rust
   
