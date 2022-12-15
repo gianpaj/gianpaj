@@ -2,6 +2,7 @@
 
 <!-- [![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge) -->
 
+- ☀️ Living in Malaga, Spain
 - 🔭 I’m currently working in [CarTrawler](https://corporate.cartrawler.com/en-gb/what-we-do/mobility/) as a Front-end Software Developer (Travel Mobility B2B2B Marketplace)
   - Using: React, React-Native, Figma, MongoDB, etc.
 - Socials:
