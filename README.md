@@ -7,6 +7,7 @@
   - Using: React, React-Native, Figma, MongoDB, etc.
 - Socials:
   - Twitter [@gianpaj](https://twitter.com/gianpaj)
+  - Mastodon [@gianpaj](https://mastodon.social/@gianpaj)
   - [LinkedIn](https://linkedin.com/in/gianpaj)
 - ⚡ Fun fact:
   - My first computer was a Compaq Presario in 1995 in Ecuador – I was 8 years old. It came with Windows 3.1 but you could install Windows '95 on it 🤓
@@ -15,7 +16,7 @@
 
 - [Wallnut.tv](https://walnut.tv/) - Always interesting videos (from Reddit and YouTube channels) `#vuejs`
 
-## Previous projects
+## Supporting
 
 - [Fallcha.io](https://app.fallcha.io/) - Supercharge your new hires time to productivity `#react` `#tailwindcss` `#nodejs` `#postgresql`
 
