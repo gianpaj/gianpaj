@@ -3,7 +3,7 @@
 <!-- [![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge) -->
 
 - ☀️ I'm living in Malaga, Spain
-- 🔭 I’m currently working in CarTrawler as a Front-end Software Developer
+- 🔭 I’m currently working in CarTrawler as a React Native Developer
   - Using TypeScript, React, React-Native, Figma, MongoDB, etc.
 - Socials:
   - Twitter [@gianpaj](https://twitter.com/gianpaj)
@@ -14,7 +14,7 @@
 
 ## Working on 
 
-- [Coding with Gian](https://gianpaj.com/) - Blog on Education and starting a Coding school in Malaga
+- [Escuela.dev](https://escuela.dev/) - a Coding school in Malaga
 
 ## Supporting
 
