@@ -5,7 +5,7 @@
 - ☀️ I'm living in Malaga, Spain
 - Starting a coding school -> <https://escuela.dev>
 - 🔭 I’m currently working in CarTrawler as a React Native Developer
-  - Using TypeScript, React, React-Native, Figma, MongoDB, Xcode and Android etc.
+  - Using TypeScript, React, React-Native, Figma, MongoDB, Xcode and Android Studio etc.
 - Socials:
   - [Twitter](https://twitter.com/gianpaj)
   - [LinkedIn](https://linkedin.com/in/gianpaj)
