@@ -7,6 +7,7 @@
 - 🔭 I’m currently working in CarTrawler as a React Native Developer
   - Using TypeScript, React, React-Native, Figma, MongoDB, Xcode and Android Studio etc.
 - Socials:
+  - [Mastodon](https://mas.to/@gianpaj) `@gianpaj@mas.to`
   - [Twitter](https://twitter.com/gianpaj)
   - [LinkedIn](https://linkedin.com/in/gianpaj)
 - ⚡ Fun fact:
