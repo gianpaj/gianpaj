@@ -3,8 +3,8 @@
 <!-- [![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge) -->
 
 - ☀️ I'm living in Malaga, Spain
-- 🔭 I’m currently working in CarTrawler as a Senior Frontend Engineer
-  - I'm very familiar with TypeScript, React, React Native, Redux, Node.js, Jest, Tailwind, Next.js, and more
+- 🔭 I’m currently working in CarTrawler as a Full-stack Engineer
+  - Tach: TypeScript, React, React Native, Redux, Node.js, Tailwind, Next.js, Python, AWS.
 - Socials:
   - [Mastodon](https://mas.to/@gianpaj) `@gianpaj@mas.to`
   - [Twitter](https://twitter.com/gianpaj)
