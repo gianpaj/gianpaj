@@ -1,4 +1,4 @@
-### Hola. I'm Gianfranco 👋 👩‍🌾
+### Ciao, mi chiamo Gianfranco 👋 👩‍🌾
 
 <!-- [![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge) -->
 
