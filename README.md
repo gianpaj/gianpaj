@@ -4,7 +4,7 @@
 
 - ☀️ I'm living in Malaga, Spain
 - 🔭 I’m currently working in CarTrawler as a Full-stack Engineer
-  - Tech Stack: TypeScript, React, React Native, Redux, Node.js, Tailwind CSS, Next.js, Python, AWS, Open AI.
+- Tech Stack: TypeScript, React, React Native, Redux, Node.js, Tailwind CSS, Radix UI, Next.js, Python, AWS, Open AI, etc.
 - Socials:
   - [Mastodon](https://mas.to/@gianpaj) `@gianpaj@mas.to`
   - [Threads](https://www.threads.net/@gianpaj)
