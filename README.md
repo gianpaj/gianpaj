@@ -1,13 +1,15 @@
-### Ciao, mi chiamo Gianfranco 👋 👩‍🌾
+### Ciao, mi chiamo Gianfranco 👋
 
 <!-- [![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge) -->
 
 - ☀️ I'm living in Malaga, Spain
 - 🔭 I’m currently working in CarTrawler as a Full-stack Engineer
-- Tech Stack: TypeScript, React, React Native, Redux, Node.js, Tailwind CSS, Radix UI, Next.js, Python, AWS, Open AI, etc.
+- Tech Stack: TypeScript, React, React Native, Redux, Node.js, Tailwind CSS, Radix UI, Next.js, Python, AWS, Open AI (LLM), etc.
+- Learning / Experimenting:
+  - Rust 🦀
+  - Flutter (Dart)
+  - Stable Diffusion (AI Image Generation)
 - Socials:
-  - [Mastodon](https://mas.to/@gianpaj) `@gianpaj@mas.to`
-  - [Threads](https://www.threads.net/@gianpaj)
   - [Twitter](https://twitter.com/gianpaj)
   - [LinkedIn](https://linkedin.com/in/gianpaj)
   - [Goodbooks](https://www.goodreads.com/user/show/10470860-gianfranco)
@@ -16,5 +18,6 @@
 
 ## Working on 👨‍💻
 
-- [SV.ai](https://sexyvoice.ai/)
-<!-- - [Escuela.dev](https://escuela.dev/) - a Coding School in Malaga -->
+- [SexyVoice.ai](https://sexyvoice.ai/) - An AI-powered chatbot for your pleasure 😉 AI Girlfriend. AI Friend. AI Lover. AI Companion. AI Virtual Girlfriend. AI Virtual Friend.
+- [Escuela.dev](https://escuela.dev/) - A Coding School in Malaga ☀️
+- [Walnut.tv](https://walnut.tv/) - 🔥 Discover trending videos from Reddit and curated YouTube channels
