@@ -18,6 +18,7 @@
 
 ## Working on 👨‍💻
 
+- **CoMaking Malaga** - A Hackerspace / Makerspace where you can meet new people and make cool stuff.
 - [Escuela.dev](https://escuela.dev/) - Escuela de programación presencial en Málaga, España - Coding School
-- [SexyVoice.ai](https://sexyvoice.ai/) - An AI-powered chatbo 😉 AI Girlfriend. AI Friend. AI Lover. AI Companion. AI Virtual Girlfriend. AI Virtual Friend.
+- [SexyVoice.ai](https://sexyvoice.ai/) - An AI-powered chatbot 😉 AI Girlfriend. AI Friend. AI Lover. AI Companion. AI Virtual Girlfriend. AI Virtual Friend.
 - [Walnut.tv](https://walnut.tv/) - 🔥 Discover trending videos from Reddit and curated YouTube channels
