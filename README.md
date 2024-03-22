@@ -2,13 +2,9 @@
 
 <!-- [![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge) -->
 
-- ☀️ I'm living in Málaga, Spain
+- ☀️ I'm living in sunny Málaga, Spain 🌞
 - 🔭 I’m currently working in CarTrawler as a Full-stack Engineer
-- Tech Stack: TypeScript, React, React Native, Redux, Node.js, Tailwind CSS, Radix UI, Next.js, Python, AWS, Open AI (LLM), etc.
-- Learning / Experimenting:
-  - Rust 🦀
-  - Flutter (Dart)
-  - Stable Diffusion (AI Image Generation)
+- Tech Stack: NextJS | TypeScript | React | React Native | Python | Node.js | Tailwind CSS | Radix UI | AWS | Vercel
 - Socials:
   - [Twitter](https://twitter.com/gianpaj)
   - [LinkedIn](https://linkedin.com/in/gianpaj)
@@ -18,7 +14,7 @@
 
 ## Working on 👨‍💻
 
-- **CoMaking Malaga** - A Hackerspace / Makerspace where you can meet new people and make cool stuff.
+- **CoMaking Malaga** - An upcoming Hackerspace / Makerspace for meeting new people and making cool stuff.
 - [Escuela.dev](https://escuela.dev/) - Escuela de programación presencial en Málaga, España - Coding School
 - [SexyVoice.ai](https://sexyvoice.ai/) - An AI-powered chatbot 😉 AI Girlfriend. AI Friend. AI Lover. AI Companion. AI Virtual Girlfriend. AI Virtual Friend.
 - [Walnut.tv](https://walnut.tv/) - 🔥 Discover trending videos from Reddit and curated YouTube channels
