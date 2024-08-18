@@ -14,9 +14,10 @@ I offer a personalized approach, tailoring my guidance to your unique goals and 
 
 I'm here to support you every step of the way. Let's build your JavaScript/TypeScript expertise together!
 
-[![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge)
+<!-- [![Contact me on Codementor to get live 1:1 coding help](https://www.codementor.io/m-badges/gianpaj/find-me-on-cm-b.svg)](https://www.codementor.io/@gianpaj?refer=badge)
 
-[Book a free consultation](https://cal.com/escuela/15min?user=escuela&date=2024-07-13&month=2024-07) to discuss your goals
+[Book a free consultation](https://cal.com/escuela/15min?user=escuela&date=2024-07-13&month=2024-07) to discuss your goals 
+-->
 
 ---
 
