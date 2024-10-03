@@ -3,12 +3,12 @@
 > Senior Software Engineer 
 
 - ☀️ I'm living in sunny Málaga, Spain 🌞
-- 🔭 I’m currently working at CarTrawler as a Senior Full-stack Engineer
+- 🔭 I’m currently working at CarTrawler as a Senior Software Engineer
 - Tech Stack: NextJS | TypeScript | React | React Native | Python | Node.js | Tailwind CSS | MongoDB | AWS | Vercel
 - Socials:
-  - [Twitter](https://twitter.com/gianpaj)
-  - [LinkedIn](https://linkedin.com/in/gianpaj)
-  - [Goodbooks](https://www.goodreads.com/user/show/10470860-gianfranco)
+  - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.0/twitter-x.svg" style="height: 1rem"> [Twitter/X](https://twitter.com/gianpaj)
+  - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.0/linkedin.svg" style="height: 1rem"> [LinkedIn](https://linkedin.com/in/gianpaj)
+  - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.0/goodreads.svg" style="height: 1rem"> [Goodreads](https://www.goodreads.com/user/show/10470860-gianfranco)
 - ⚡ Fun fact:
   - My first computer was a Compaq Presario in 1995 in Ecuador – I was 8 years old. It came with Windows 3.1, but you could install Windows '95. I was amazed by the possibilities of a computer and the internet (dial-up). I still cherish those memories 🕹️😊
 
