@@ -12,7 +12,7 @@
 - ⚡ Fun fact:
   - My first computer was a Compaq Presario in 1995 in Ecuador – I was 8 years old. It came with Windows 3.1, but you could install Windows '95. I was amazed by the possibilities of a computer and the internet (dial-up). I still cherish those memories 🕹️😊
 
-## Side projects 👨‍💻
+## Side projects / AI Mini apps 👨‍💻
 
 - [CoverLetter.work](https://coverletter.work) - Get a tailored cover letter in seconds, for FREE! 🤖
 - [Walnut.tv](https://walnut.tv/) - 🔥 Discover trending videos from Reddit and curated YouTube channels
