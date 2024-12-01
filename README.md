@@ -1,12 +1,14 @@
 ### Ciao, mi chiamo Gianfranco 👋
 
-> Senior Software Engineer 
+> Coding Mentor ✦ Tinkerer ✦ Senior Software Developer 🌞
 
 - ☀️ I'm living in sunny Málaga, Spain 🌞
-- 🔭 I’m currently working as a Senior Software Engineer
-- Tech Stack: Next.js | TypeScript | React | React Native | Python | Node.js | Tailwind CSS | MongoDB | AWS | Vercel
+- 🔭 I’m currently working as a Coding Mentor and Founder at [Escuela.dev](https://escuela.dev)
+  - One-on-One private coding lessons in Málaga, Madrid and online
+- Tech Stack: `Next.js | TypeScript | React | React Native | Python | Node.js | Tailwind CSS | MongoDB | AWS | Vercel`
 - Socials:
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.4/twitter-x.svg" style="height: 1rem"> [Twitter/X](https://x.com/gianpaj)
+  - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.4/youtube.svg" style="height: 1rem"> [YouTube](https://www.youtube.com/@gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.4/linkedin.svg" style="height: 1rem"> [LinkedIn](https://linkedin.com/in/gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.4/goodreads.svg" style="height: 1rem"> [Goodreads](https://www.goodreads.com/user/show/10470860-gianfranco)
 - ⚡ Fun fact:
@@ -16,7 +18,6 @@
 
 - [CoverLetter.work](https://coverletter.work) - Get a tailored cover letter in seconds, for FREE! 🤖
 - [Walnut.tv](https://walnut.tv) - 🔥 Discover trending videos from Reddit and curated YouTube channels
-- [Escuela.dev](https://escuela.dev) - One-on-One private coding lessons in Málaga, Madrid and online
 
 <!-- - **CoMaking Malaga** - An upcoming Hackerspace / Makerspace for meeting new people and making cool stuff. -->
 <!-- - [SexyVoice.ai](https://sexyvoice.ai) - An AI-powered chatbot 😉 AI Girlfriend. AI Friend. AI Lover. AI Companion. AI Virtual Girlfriend. AI Virtual Friend. -->
