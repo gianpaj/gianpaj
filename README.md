@@ -8,7 +8,7 @@
 - Tech Stack: `Next.js | TypeScript | React | React Native | Python | Node.js | Tailwind CSS | MongoDB | AWS | Vercel`
 - Socials:
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.4/twitter-x.svg" style="height: 1rem"> [Twitter/X](https://x.com/gianpaj)
-  - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.4/youtube.svg" style="height: 1rem"> [YouTube](https://www.youtube.com/@gianpaj)
+  - <img color="red" fill="red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" style="height: 1rem"> [YouTube](https://www.youtube.com/@gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.4/linkedin.svg" style="height: 1rem"> [LinkedIn](https://linkedin.com/in/gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.4/goodreads.svg" style="height: 1rem"> [Goodreads](https://www.goodreads.com/user/show/10470860-gianfranco)
 - ⚡ Fun fact:
