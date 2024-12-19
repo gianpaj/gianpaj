@@ -7,8 +7,8 @@
   - One-on-One private coding lessons in Málaga, Madrid and online
 - Tech Stack: `Next.js | TypeScript | React | React Native | Python | Node.js | Tailwind CSS | MongoDB | AWS | Vercel`
 - Socials:
-  - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/twitter-x.svg" style="height: 1rem"> [Twitter/X](https://x.com/gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/youtube.svg" style="height: 1rem"> [YouTube](https://www.youtube.com/@gianpaj)
+  - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/twitter-x.svg" style="height: 1rem"> [Twitter/X](https://x.com/gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/linkedin.svg" style="height: 1rem"> [LinkedIn](https://linkedin.com/in/gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/goodreads.svg" style="height: 1rem"> [Goodreads](https://www.goodreads.com/user/show/10470860-gianfranco)
 - ⚡ Fun fact:
@@ -16,6 +16,7 @@
 
 ## Side projects / AI Mini apps 👨‍💻
 
+- [Call Me Now Please](https://github.com/gianpaj/call-me-please) - A mobile application that lets users schedule AI-powered voice calls. 📞 🤖
 - [CoverLetter.work](https://coverletter.work) - Get a tailored cover letter in seconds, for FREE! 🤖
 - [Walnut.tv](https://walnut.tv) - 🔥 Discover trending videos from Reddit and curated YouTube channels
 
