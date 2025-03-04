@@ -4,7 +4,7 @@
 
 - ☀️ I'm living in sunny Málaga, Spain 🌞
 - 🔭 I’m currently working as a Coding Mentor and Founder at [Escuela.dev](https://escuela.dev)
-  - One-on-One private coding lessons in Málaga, Madrid and online
+  - One-on-one private coding lessons in Málaga, Madrid and online
 - Tech Stack: `Next.js | TypeScript | React | React Native | Python | Node.js | Tailwind CSS | MongoDB | AWS | Vercel`
 - Socials:
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/youtube.svg" style="height: 1rem"> [YouTube](https://www.youtube.com/@gianpaj)
@@ -17,8 +17,8 @@
 ## Side projects / AI Mini apps 👨‍💻
 
 - [Call Me Now Please](https://github.com/gianpaj/call-me-please) - A mobile application that lets users schedule AI-powered voice calls. 📞 🤖
-- [CoverLetter.work](https://coverletter.work) - Get a tailored cover letter in seconds, for FREE! 🤖
 - [Walnut.tv](https://walnut.tv) - 🔥 Discover trending videos from Reddit and curated YouTube channels
+<!-- - [CoverLetter.work](https://coverletter.work) - Get a tailored cover letter in seconds, for FREE! 🤖 -->
 
 <!-- - **CoMaking Malaga** - An upcoming Hackerspace / Makerspace for meeting new people and making cool stuff. -->
 <!-- - [SexyVoice.ai](https://sexyvoice.ai) - An AI-powered chatbot 😉 AI Girlfriend. AI Friend. AI Lover. AI Companion. AI Virtual Girlfriend. AI Virtual Friend. -->
