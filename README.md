@@ -1,10 +1,9 @@
 ### Ciao, mi chiamo Gianfranco 👋
 
-> Coding Mentor ✦ Tinkerer ✦ Senior Software Developer 🌞
+> Coding Mentor ✦ Tinkerer ✦ Software Developer 🌞
 
 - ☀️ I'm living in sunny Málaga, Spain 🌞
-- 🔭 I’m currently working as a Coding Mentor and Founder at [Escuela.dev](https://escuela.dev)
-  - One-on-one private coding lessons in Málaga, Madrid and online
+- 🔭 I’m currently working as a Software Developer at [IOTA Foundation](https://iota-foundation.org)
 - Tech Stack: `Next.js | TypeScript | React | React Native | Python | Node.js | Tailwind CSS | MongoDB | AWS | Vercel`
 - Socials:
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/youtube.svg" style="height: 1rem"> [YouTube](https://www.youtube.com/@gianpaj)
