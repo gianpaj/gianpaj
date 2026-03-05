@@ -4,11 +4,11 @@
 
 - ☀️ I'm living in sunny Málaga, Spain 🌞
 - 🔭 I'm currently working as a Software Developer at [TWIN](https://www.twin.org) / [IOTA Foundation](https://iota-foundation.org)
-- Tech Stack: `Next.js | TypeScript | React | Python | Node.js | Tailwind CSS | MongoDB | AWS | Vercel | Generative AI (text and audio)`
+- Tech Stack: `Next.js | TypeScript | React | Python | Node.js | PostgreSQL (Supabase) | MongoDB | AWS | Vercel | Hetzner | Generative AI (text and audio)`
 - Blog:
   - <https://gian.cool> 
 - Socials:
-  - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/youtube.svg" style="height: 1rem"> [YouTube](https://www.youtube.com/@gianpaj)
+  <!-- - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/youtube.svg" style="height: 1rem"> [YouTube](https://www.youtube.com/@gianpaj) -->
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/twitter-x.svg" style="height: 1rem"> [Twitter/X](https://x.com/gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/linkedin.svg" style="height: 1rem"> [LinkedIn](https://linkedin.com/in/gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/goodreads.svg" style="height: 1rem"> [Goodreads](https://www.goodreads.com/user/show/10470860-gianfranco)
