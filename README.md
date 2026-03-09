@@ -1,6 +1,6 @@
 ### Ciao, mi chiamo Gianfranco 👋
 
-> Coding Mentor ✦ Tinkerer ✦ Software Developer
+> Tinkerer ✦ Software Developer ✦ Dog father 🐶
 
 - ☀️ I'm living in sunny Málaga, Spain 🌞
 - 🔭 I'm currently working as a Software Developer at [TWIN](https://www.twin.org) / [IOTA Foundation](https://iota-foundation.org)
