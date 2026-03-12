@@ -15,10 +15,11 @@
 - ⚡ Fun fact:
   - My first computer was a Compaq Presario in 1995 in Ecuador – I was 8 years old. It came with Windows 3.1, but you could install Windows '95. I was amazed by the possibilities of a computer and the internet (dial-up). I still cherish those memories 🕹️😊
 
-## Side projects / AI Mini apps 👨‍💻
+## Side projects 👨‍💻
 
 - 🎙️ [SexyVoice.ai](https://sexyvoice.ai) ([repo](https://github.com/gianpaj/sexyvoice)) - Text to Speech and Voice cloning platform. Perfect for content creators, developers, and storytellers 😉
 - 🔥 [Walnut.tv](https://walnut.tv) ([repo](https://github.com/gianpaj/walnut.tv)) - Discover trending videos from Reddit and curated YouTube channels
+- 🎯 Multiplayer Game Blob Royale Webapp - WIP https://github.com/gianpaj/diov 
 <!-- - 🤖 [Call Me Now Please app](https://github.com/gianpaj/call-me-please) - A mobile application that lets users schedule AI-powered voice calls. -->
 <!-- - [CoverLetter.work](https://coverletter.work) - Get a tailored cover letter in seconds, for FREE! 🤖 -->
 
