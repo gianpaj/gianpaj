@@ -2,9 +2,8 @@
 
 > Tinkerer ✦ Software Developer ✦ Dog father 🐶
 
-- ☀️ I'm living in sunny Málaga, Spain 🌞
-- 🔭 I'm currently working as a Software Developer at [TWIN](https://www.twin.org) / [IOTA Foundation](https://iota-foundation.org)
-- Tech Stack: `Next.js | TypeScript | React | Python | Node.js | PostgreSQL (Supabase) | MongoDB | AWS | Vercel | Hetzner | Generative AI (text and audio)`
+- ☀️ I'm living in sunny Madrid, Spain 🌞
+- Tech Stack: `Next.js | TypeScript | React | Python | Node.js | PostgreSQL | MongoDB | AWS | Vercel | Generative AI (text and audio) | Machine Learning`
 - Blog:
   - <https://gian.cool> 
 - Socials:
@@ -21,6 +20,7 @@
 - 🔥 [Walnut.tv](https://walnut.tv) ([repo](https://github.com/gianpaj/walnut.tv)) - Discover trending videos from Reddit and curated YouTube channels
 - 📞 [agentcaller.io](https://agentcaller.io) ([repo](https://github.com/gianpaj/agentcaller-io)) - AgentCaller.io lets your AI agent (e.g. OpenClaw) call businesses — booking a restaurant, etc.
 - 🎯 [3dvibegame.com](https://3dvibegame.com) ([repo](https://github.com/gianpaj/3dvibegame)) - 3d multiplayer game where you can create any 3d object, move around and manipulate objects with text. My first game
+- ⚽️ [football_analysis_yolo](https://github.com/gianpaj/football_analysis_yolo) - A Machine Learning project using YOLO and OpenCV to automate soccer match analysis, player tracking, and performance insights from live or pre-recorded video footage.
 <!-- - 🤖 [Call Me Now Please app](https://github.com/gianpaj/call-me-please) - A mobile application that lets users schedule AI-powered voice calls. -->
 <!-- - [CoverLetter.work](https://coverletter.work) - Get a tailored cover letter in seconds, for FREE! 🤖 -->
 
