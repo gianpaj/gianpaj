@@ -3,7 +3,8 @@
 > Tinkerer ✦ Software Developer ✦ Dog father 🐶
 
 - ☀️ I'm living in sunny Madrid, Spain 🌞
-- Tech Stack: `Next.js | TypeScript | React | Python | Node.js | PostgreSQL | MongoDB | AWS | Vercel | Generative AI (text and audio) | Machine Learning`
+- Tech Stack: `Next.js | TypeScript | React | Python | Node.js | PostgreSQL | MongoDB | AWS | Vercel | Generative AI (text and audio) | Agentic systems`
+- 🚀 Currently co-founding [HolaBrisa](https://holabrisa.com) - AI voice and WhatsApp receptionist for Hotels, Veterinaries, and more
 - Blog:
   - <https://gian.cool> 
 - Socials:
