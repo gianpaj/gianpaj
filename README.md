@@ -4,7 +4,6 @@
 
 - ☀️ I'm living in sunny Madrid, Spain 🌞
 - Tech Stack: `Next.js | TypeScript | React | Python | Node.js | PostgreSQL | MongoDB | AWS | Vercel | Generative AI (text and audio) | Agentic systems`
-- 🚀 Currently co-founding [HolaBrisa](https://holabrisa.com) - AI voice and WhatsApp receptionist for Hotels, Veterinaries, and more
 - Blog:
   - <https://gian.cool> 
 - Socials:
@@ -13,11 +12,15 @@
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/linkedin.svg" style="height: 1rem"> [LinkedIn](https://linkedin.com/in/gianpaj)
   - <img src="https://cdn.jsdelivr.net/gh/gianpaj/gianpaj@1.6/goodreads.svg" style="height: 1rem"> [Goodreads](https://www.goodreads.com/user/show/10470860-gianfranco)
 - ⚡ Fun fact:
-  - My first computer was a Compaq Presario in 1995 in Ecuador – I was 8 years old. It came with Windows 3.1, but you could install Windows '95. I was amazed by the possibilities of a computer and the internet (dial-up). I still cherish those memories 🕹️😊
+  - My first computer was a Compaq Presario in 1995 in Ecuador – I was 8 years old. It came with Windows 3.1, but you could install Windows '95. I was amazed by the possibilities of computers and the internet (dial-up). I still cherish those memories 🕹️😊
+ 
+## Businesses
+
+- ☎️ [HolaBrisa](https://holabrisa.com) - a thoughtful text and voice AI receptionist that gives every hotel guest an immediate, personal welcome.
+- 🎙️ [SexyVoice.ai](https://sexyvoice.ai) ([repo](https://github.com/gianpaj/sexyvoice)) - Text to Speech and Voice cloning platform. Perfect for content creators, developers, and storytellers
 
 ## Side projects 👨‍💻
 
-- 🎙️ [SexyVoice.ai](https://sexyvoice.ai) ([repo](https://github.com/gianpaj/sexyvoice)) - Text to Speech and Voice cloning platform. Perfect for content creators, developers, and storytellers 😉
 - 🔥 [Walnut.tv](https://walnut.tv) ([repo](https://github.com/gianpaj/walnut.tv)) - Discover trending videos from Reddit and curated YouTube channels
 - 📞 [agentcaller.io](https://agentcaller.io) ([repo](https://github.com/gianpaj/agentcaller-io)) - AgentCaller.io lets your AI agent (e.g. OpenClaw) call businesses — booking a restaurant, etc.
 - 🎯 [3dvibegame.com](https://3dvibegame.com) ([repo](https://github.com/gianpaj/3dvibegame)) - 3d multiplayer game where you can create any 3d object, move around and manipulate objects with text. My first game
