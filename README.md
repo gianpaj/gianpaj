@@ -21,16 +21,16 @@
 
 ## Onova 🇺🇦
 
-[Onova.co](https://www.onova.co/) was our startup in Ukraine, active until September 2019. It was a mobile marketplace where people bought and sold clothes and accessories, built their own brand and grew an audience of buyers. Payments went through UAPay and were held in escrow until the buyer collected the package. We also launched Drop, a spin-off where sellers scheduled a batch of items to go on sale at a set date and time.
+[Onova.co](https://www.onova.co/) was our startup in Ukraine, active until September 2019. It was a mobile marketplace where people bought and sold clothes and accessories, built their own brand and grew an audience of buyers. Payments went through UAPay and were held in escrow until the buyer collected the package. We also launched [Drop](https://github.com/gianpaj/onova-webapp-drop), a spin-off where sellers scheduled a batch of items to go on sale at a set date and time.
 
-The iOS and Android apps were built with React Native, and the web apps with React and TypeScript. A set of small Node.js services ran on a single AWS Lightsail instance and shared one MongoDB database:
+The [iOS and Android apps](https://github.com/gianpaj/onova-mobileapp) were built with React Native, and the web apps with React and TypeScript. A set of small Node.js services ran on a single AWS Lightsail instance and shared one MongoDB database:
 
-- `server.data`: the Express REST API behind the apps and the web app
-- `server.push`: push notifications through Firebase Cloud Messaging
-- `server.chat`: buyer–seller chat on Pusher ChatKit, with auth and polling for notifications
+- [`server.data`](https://github.com/gianpaj/onova-server.data): the Express REST API behind the apps and the web app
+- [`server.push`](https://github.com/gianpaj/onova-server.push): push notifications through Firebase Cloud Messaging
+- [`server.chat`](https://github.com/gianpaj/onova-server.chat): buyer–seller chat on Pusher ChatKit, with auth and polling for notifications
 - Agenda: a MongoDB-backed job scheduler for order deadlines and notifications
-- Forest Admin: the back office
-- A Google AutoML image classifier for tagging items listed for sale
+- [Forest Admin](https://github.com/gianpaj/onova-forest-admin): the back office
+- A [Google AutoML image classifier](https://github.com/gianpaj/onova-automl-server) for tagging items listed for sale
 
 <details><summary>Details</summary>
 <p>
