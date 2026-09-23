@@ -35,9 +35,6 @@ The iOS and Android apps were built with React Native, and the web apps with Rea
 <details><summary>Details</summary>
 <p>
 
-
-
-
 ```mermaid
 flowchart LR
   subgraph lightsail["AWS Lightsail instance"]
@@ -67,7 +64,6 @@ chatAuth <--> chatkit
 mongo --> backup
 ```
 
-
 </p>
 </details> 
 
@@ -82,7 +78,3 @@ mongo --> backup
 <!-- - [CoverLetter.work](https://coverletter.work) - Get a tailored cover letter in seconds, for FREE! 🤖 -->
 
 <!-- - **CoMaking Malaga** - An upcoming Hackerspace / Makerspace for meeting new people and making cool stuff. -->
-
-```
-
-```
