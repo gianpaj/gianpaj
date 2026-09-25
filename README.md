@@ -23,7 +23,7 @@
 
 <img src="https://raw.githubusercontent.com/gianpaj/onova-mobileapp/master/screenshot-oct-2018.jpeg" alt="Onova Android app home feed, October 2018" width="160" align="right">
 
-[Onova.co](https://www.onova.co/) was a mobile marketplace for second-hand and sustainable clothing, "Instagram with a buy button". Alex and I first built Givebox, an app for giving things away in your local area, working remotely from Ireland and Poland. Clothing turned out to be the largest category, so we moved to Lviv, Ukraine, and went full time on Onova. The company ran until September 2019.
+[Onova.co](https://www.onova.co/) was a mobile marketplace for second-hand and sustainable clothing, "Instagram with a buy button". [Alex](https://github.com/krokubik) and I first built Givebox, an app for giving things away in your local area, working remotely from Ireland and Poland. Clothing turned out to be the largest category, so we moved to Lviv, Ukraine, and went full-time on Onova. The company ran until September 2019.
 
 Young people in Ukraine bought clothes in thrift stores and resold them on social media, a market full of scammers, with no payments, reviews or search. On Onova, buyers followed shops to build a personal feed. Sellers announced a *drop*, a batch of items going on sale at a set date and time. Buyers subscribed, got a notification when it opened and competed to buy. Payments went through UAPay and were held in escrow until the buyer collected the package from Nova Poshta, and Onova took a small fee from each completed order. [Drop](https://github.com/gianpaj/onova-webapp-drop) was a spin-off app built from the same codebase.
 
