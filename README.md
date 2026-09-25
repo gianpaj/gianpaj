@@ -3,7 +3,7 @@
 > Tinkerer ✦ Software Developer ✦ Dog father 🐶
 
 - ☀️ I'm living in sunny Madrid, Spain 🌞
-- Tech Stack: `Next.js | TypeScript | React | Python | Node.js | PostgreSQL | MongoDB | AWS | Vercel | Generative AI (text and audio) | Agentic systems`
+- Tech Stack: `TypeScript | Node.js | PostgreSQL | MongoDB | Next.js | React | Python | Vercel | Generative AI (text and voice) | LiveKit`
 - Blog:
   - <https://gian.cool>
 - Socials:
