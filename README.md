@@ -21,16 +21,20 @@
 
 ## Onova 🇺🇦
 
-[Onova.co](https://www.onova.co/) was our startup in Ukraine, active until September 2019. It was a mobile marketplace where people bought and sold clothes and accessories, built their own brand and grew an audience of buyers. Payments went through UAPay and were held in escrow until the buyer collected the package. We also launched [Drop](https://github.com/gianpaj/onova-webapp-drop), a spin-off where sellers scheduled a batch of items to go on sale at a set date and time.
+<img src="https://raw.githubusercontent.com/gianpaj/onova-mobileapp/master/screenshot-oct-2018.jpeg" alt="Onova Android app home feed, October 2018" width="160" align="right">
 
-The [iOS and Android apps](https://github.com/gianpaj/onova-mobileapp) were built with React Native, and the web apps with React and TypeScript. A set of small Node.js services ran on a single AWS Lightsail instance and shared one MongoDB database:
+[Onova.co](https://www.onova.co/) was a mobile marketplace for second-hand and sustainable clothing, "Instagram with a buy button". Alex and I first built Givebox, an app for giving things away in your local area, working remotely from Ireland and Poland. Clothing turned out to be the largest category, so we moved to Lviv, Ukraine, and went full time on Onova. The company ran until September 2019.
 
-- [`server.data`](https://github.com/gianpaj/onova-server.data): the Express REST API behind the apps and the web app
+Young people in Ukraine bought clothes in thrift stores and resold them on social media, a market full of scammers, with no payments, reviews or search. On Onova, buyers followed shops to build a personal feed. Sellers announced a *drop*, a batch of items going on sale at a set date and time. Buyers subscribed, got a notification when it opened and competed to buy. Payments went through UAPay and were held in escrow until the buyer collected the package from Nova Poshta, and Onova took a small fee from each completed order. [Drop](https://github.com/gianpaj/onova-webapp-drop) was a spin-off app built from the same codebase.
+
+I wrote almost all of the code: about 4,500 commits between 2017 and 2020. The [iOS and Android apps](https://github.com/gianpaj/onova-mobileapp) were one React Native codebase that built both Onova and Drop. The web apps used React and TypeScript. A set of small Node.js services ran on a single AWS Lightsail instance under pm2 and shared one MongoDB database:
+
+- [`server.data`](https://github.com/gianpaj/onova-server.data): the Express REST API behind the apps and web apps, covering the order flow, feed, search and drops, with about 400 tests
 - [`server.push`](https://github.com/gianpaj/onova-server.push): push notifications through Firebase Cloud Messaging
-- [`server.chat`](https://github.com/gianpaj/onova-server.chat): buyer–seller chat on Pusher ChatKit, with auth and polling for notifications
+- [`server.chat`](https://github.com/gianpaj/onova-server.chat): order updates posted into buyer–seller chats on Pusher ChatKit, later Sendbird
 - Agenda: a MongoDB-backed job scheduler for order deadlines and notifications
 - [Forest Admin](https://github.com/gianpaj/onova-forest-admin): the back office
-- A [Google AutoML image classifier](https://github.com/gianpaj/onova-automl-server) for tagging items listed for sale
+- An Instagram importer: sellers linked their account, and a [Google AutoML image classifier](https://github.com/gianpaj/onova-automl-server) picked out posts showing items for sale and turned them into listings on their Onova shop
 
 <details><summary>Details</summary>
 <p>
