@@ -16,8 +16,8 @@
 
 ## Businesses
 
-- ☎️ [HolaBrisa](https://holabrisa.com) - a thoughtful text and voice AI receptionist that gives every hotel guest an immediate, personal welcome.
-- 🎙️ [SexyVoice.ai](https://sexyvoice.ai) ([repo](https://github.com/gianpaj/sexyvoice)) - Text to Speech and Voice cloning platform. Perfect for content creators, developers, and storytellers
+- ☎️ [HolaBrisa](https://holabrisa.com) - a thoughtful voice AI receptionist for exceptional hospitality.
+- 🎙️ [SexyVoice.ai](https://sexyvoice.ai) ([repo](https://github.com/gianpaj/sexyvoice)) - Free AI Text-to-Speech & Real-Time Voice Calls with realistic and emotional voices
 
 ## Onova 🇺🇦
 
