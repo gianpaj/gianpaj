@@ -1,6 +1,127 @@
-<svg width="1000" height="290" viewBox="0 0 1000 290" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="330" viewBox="0 0 1000 330" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .command {
+      font-size: 18px;
+      --characters: 8;
+      --duration: 0.96s;
+      --delay: 0.4s;
+    }
+
+    .name {
+      font-size: 46px;
+      --characters: 10;
+      --duration: 0.4s;
+      --delay: 1.6s;
+    }
+
+    .tagline {
+      font-size: 20px;
+      --characters: 30;
+      --duration: 0.6s;
+      --delay: 2.1s;
+    }
+
+    .secondary {
+      font-size: 15px;
+      --characters: 47;
+      --duration: 0.94s;
+      --delay: 2.8s;
+    }
+
+    /* Character cells keep the reveal aligned with the text across monospace fonts. */
+    .reveal,
+    .command-cursor {
+      font-family: monospace;
+    }
+
+    .command-cursor {
+      opacity: 0;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .reveal {
+        animation: type var(--duration) steps(var(--characters), end) var(--delay) both;
+      }
+
+      .command-cursor {
+        opacity: 1;
+        animation: move var(--duration) steps(var(--characters), end) var(--delay) both,
+          blink 0.4s step-end 4,
+          hide 0s 1.6s forwards;
+      }
+
+      .ready-prompt {
+        animation: show 0s 3.74s both;
+      }
+
+      .output-cursor {
+        animation: blink 1.2s step-end 3.74s infinite;
+      }
+    }
+
+    @keyframes type {
+      from {
+        width: 0;
+      }
+
+      to {
+        width: calc(var(--characters) * 1ch);
+      }
+    }
+
+    @keyframes move {
+      from {
+        transform: translateX(0);
+      }
+
+      to {
+        transform: translateX(calc(var(--characters) * 1ch));
+      }
+    }
+
+    @keyframes blink {
+
+      0%,
+      100% {
+        opacity: 1;
+      }
+
+      50% {
+        opacity: 0;
+      }
+    }
+
+    @keyframes hide {
+      to {
+        opacity: 0;
+      }
+    }
+
+    @keyframes show {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
 
   <defs>
+    <clipPath id="command-clip">
+      <rect class="reveal command" x="252" width="1000" height="290" />
+    </clipPath>
+    <clipPath id="name-clip">
+      <rect class="reveal name" x="55" width="1000" height="290" />
+    </clipPath>
+    <clipPath id="tagline-clip">
+      <rect class="reveal tagline" x="57" width="1000" height="290" />
+    </clipPath>
+    <clipPath id="secondary-clip">
+      <rect class="reveal secondary" x="57" width="1000" height="290" />
+    </clipPath>
 
     <filter id="glow">
       <feGaussianBlur stdDeviation="4" result="blur" />
@@ -12,7 +133,7 @@
   </defs>
 
   <!-- Window -->
-  <rect x="8" y="8" width="984" height="274" rx="18" fill="#141414" stroke="#2e2e2e" stroke-width="2" />
+  <rect x="8" y="8" width="984" height="314" rx="18" fill="#141414" stroke="#2e2e2e" stroke-width="2" />
 
   <!-- Terminal title bar -->
   <rect x="8" y="8" width="984" height="48" rx="18" fill="#1e1e1e" />
@@ -33,28 +154,35 @@
     gianpaj@github:~$
   </text>
 
-  <text x="252" y="103" font-family="monospace" font-size="18" fill="#e8e4de">
+  <text x="252" y="103" font-family="monospace" font-size="18" fill="#e8e4de" clip-path="url(#command-clip)">
     ./whoami
   </text>
 
   <!-- Name -->
-  <text x="55" y="163" font-family="monospace" font-size="46" font-weight="700" fill="#d4785e" filter="url(#glow)">
-    GIANFRANCO
-  </text>
+  <g filter="url(#glow)">
+    <text x="55" y="163" font-family="monospace" font-size="46" font-weight="700" fill="#d4785e"
+      clip-path="url(#name-clip)">
+      GIANFRANCO
+    </text>
+  </g>
 
   <!-- Tagline -->
-  <text x="57" y="205" font-family="monospace" font-size="20" fill="#e8e4de">
+  <text x="57" y="205" font-family="monospace" font-size="20" fill="#e8e4de" clip-path="url(#tagline-clip)">
     Builder. Tinkerer. Dog father.
   </text>
 
   <!-- Secondary -->
-  <text x="57" y="242" font-family="monospace" font-size="15" fill="#9ca3af">
+  <text x="57" y="242" font-family="monospace" font-size="15" fill="#9ca3af" clip-path="url(#secondary-clip)">
     TypeScript · React · Python · Voice AI · Madrid
   </text>
 
-  <!-- Cursor -->
-  <rect x="494" y="226" width="10" height="20" rx="1" fill="#d4785e">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" />
-  </rect>
+  <!-- Ready prompt -->
+  <g class="ready-prompt" transform="translate(55 282)" font-family="monospace" font-size="18" fill="#d4785e">
+    <text>gianpaj@github:~$</text>
+    <rect class="output-cursor" x="18ch" y="-17" width="10" height="20" rx="1" />
+  </g>
+
+  <!-- Command cursor -->
+  <rect class="command-cursor command" x="252" y="86" width="10" height="20" rx="1" fill="#d4785e" />
 
 </svg>
