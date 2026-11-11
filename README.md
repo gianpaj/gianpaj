@@ -1,3 +1,5 @@
+![Gianfranco, builder, tinkerer, and dog father](header.svg)
+
 ### Ciao, mi chiamo Gianfranco 👋
 
 > Tinkerer ✦ Software Developer ✦ Dog father 🐶
